@@ -1,2 +1,2 @@
-# test_automation
-test automation course project
+# Test Automation
+Official Repository for Test-Automation Project
